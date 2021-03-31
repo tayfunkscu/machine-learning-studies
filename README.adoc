@@ -3,6 +3,6 @@
 _A repository to organize my machine learning notes and studies._
 
 
-https://github.com/tayfunkscu/machine-learning-studies/Notebooks[Notebooks]
+https://github.com/tayfunkscu/machine-learning-studies/tree/main/Notebooks[Notebooks]
 
-https://github.com/tayfunkscu/machine-learning-studies/Datas[Datas]
+https://github.com/tayfunkscu/machine-learning-studies/tree/main/Notebooks[Datas]
